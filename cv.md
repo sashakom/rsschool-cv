@@ -1,12 +1,12 @@
-#CV#
+# CV #
 
 ***
 
-##Oleksandr Komar##
+## Oleksandr Komar ##
 
 ***
 
-###Contacts:###
+### Contacts: ###
 
 ***
 
@@ -16,13 +16,13 @@
 
 ***
 
-###Summary###
+### Summary ###
 
 I began to study Front-End Development. I like to learn new things, learn fast.
 
 ***
 
-###Skills###
+### Skills ###
 
 * HTML
 * CSS
@@ -32,14 +32,14 @@ I began to study Front-End Development. I like to learn new things, learn fast.
 
 ***
 
-###Education###
+### Education ###
 
 * Specialist diploma: Central Ukrainian National Technical University, Faculty of Automation and Energy, Department Automation of production processes, 2012
 * I have completed “Learn CSS” and “Introduction to HTML” courses in Codeacademy
 
 ***
 
-###English###
+### English ###
 
 My level of English is A2
 
