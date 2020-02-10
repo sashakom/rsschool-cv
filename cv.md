@@ -1,6 +1,3 @@
-[rsschool-cv](https://sashakom.github.io/rsschool-cv/)
-***
-
 #CV#
 
 ***
@@ -14,6 +11,7 @@
 ***
 
 >E-mail: komarolexandr@gmail.com
+
 >Phone: +380962190777
 
 ***
