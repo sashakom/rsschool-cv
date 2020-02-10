@@ -34,7 +34,7 @@ I began to study Front-End Development. I like to learn new things, learn fast.
 
 ### Code Examples ###
 
-Some examples of my self-education results you can see here.
+Some examples of my self-education results you can see [here](https://github.com/sashakom).
 
 ***
 
