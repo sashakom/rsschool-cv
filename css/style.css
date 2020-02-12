@@ -1,0 +1,38 @@
+.container {
+  margin: 0 auto;
+  max-width: 1024px;
+  text-align: justify;
+  font-family: "Helvetica", "Arial", sans-serif;
+  background-color: #D3D3D3;
+}
+
+.header {
+  font-size: 24px;
+  text-align: center;
+}
+
+.image {
+  text-align: center;
+}
+
+.head_third {
+  font-size: 20px;
+  text-align: center;
+}
+
+.email,
+.phone,
+.text,
+.list {
+  padding-left: 40px;
+  font-size: 17px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 13px;
+}
+
+.link:hover {
+  color: #F00;
+}
